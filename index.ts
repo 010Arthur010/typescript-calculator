@@ -8,12 +8,12 @@ const answers : {
        {
               type: "number",
               name: "numberOne",
-              message: "Masukkan angka pertama  ",
+              message: "Enter Your First Number  ",
        },
        {
               type: "number",
               name: "numberTwo",
-              message: "Masukkan angka kedua  ",
+              message: "Enter Your Second Number  ",
        },
        {
               type: "list",
