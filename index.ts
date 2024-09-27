@@ -36,7 +36,7 @@ if(numberOne && numberTwo && operator){
        } else if(operator === "*") {
               result = numberOne * numberTwo
        }
-       console.log("Your result is:  ", result);
+       console.log("Hasilnya guys:  ", result);
 } else {
-       console.log("Kindly enter valid input");
+       console.log("Angka tidak valid");
 }
